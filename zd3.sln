@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zd3", "zd3\zd3.csproj", "{F4BF4CC3-B734-437E-9A9C-6C4D861E317E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{4447121C-A15A-412F-AC09-D34F2B7E13FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4BF4CC3-B734-437E-9A9C-6C4D861E317E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BF4CC3-B734-437E-9A9C-6C4D861E317E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BF4CC3-B734-437E-9A9C-6C4D861E317E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BF4CC3-B734-437E-9A9C-6C4D861E317E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4447121C-A15A-412F-AC09-D34F2B7E13FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4447121C-A15A-412F-AC09-D34F2B7E13FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4447121C-A15A-412F-AC09-D34F2B7E13FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4447121C-A15A-412F-AC09-D34F2B7E13FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9C9DBF-1DD0-434B-85EC-DE1EC83A06DF}
+	EndGlobalSection
+EndGlobal
